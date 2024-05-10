@@ -1,92 +1,87 @@
 {
-  "data":
-  [
-    {
-    {
+    "1": {
         "id_kota": 1,
         "kabupaten/kota": "Buton",
         "jumlahpenduduk": "118410"
     },
-    {
+    "2": {
         "id_kota": 2,
         "kabupaten/kota": "Muna",
         "jumlahpenduduk": "221370"
     },
-    {
+    "3": {
         "id_kota": 3,
         "kabupaten/kota": "Konawe",
         "jumlahpenduduk": "264930"
     },
-    {
+    "4": {
         "id_kota": 4,
         "kabupaten/kota": "Kolaka\n",
         "jumlahpenduduk": "243040"
     },
-    {
+    "5": {
         "id_kota": 5,
         "kabupaten/kota": "Konawe Selatan",
         "jumlahpenduduk": "318350"
     },
-    {
+    "6": {
         "id_kota": 6,
         "kabupaten/kota": "Bombana\n",
         "jumlahpenduduk": "155510"
     },
-    {
+    "7": {
         "id_kota": 7,
         "kabupaten/kota": "Wakatobi",
         "jumlahpenduduk": "114620"
     },
-    {
+    "8": {
         "id_kota": 8,
         "kabupaten/kota": "Kolaka Utara\n",
         "jumlahpenduduk": "142770"
     },
-    {
+    "9": {
         "id_kota": 9,
         "kabupaten/kota": "Buton Utara\n",
         "jumlahpenduduk": "68090"
     },
-    {
+    "10": {
         "id_kota": 10,
         "kabupaten/kota": "Konawe Utara\n",
         "jumlahpenduduk": "70680"
     },
-    {
+    "11": {
         "id_kota": 11,
         "kabupaten/kota": "Kolaka Timur\n",
         "jumlahpenduduk": "123980"
     },
-    {
+    "12": {
         "id_kota": 12,
         "kabupaten/kota": "Konawe Kepulauan\n",
         "jumlahpenduduk": "38310"
     },
-    {
+    "13": {
         "id_kota": 13,
         "kabupaten/kota": "Muna Barat",
         "jumlahpenduduk": "87590"
     },
-    {
+    "14": {
         "id_kota": 14,
         "kabupaten/kota": "Buton Tengah\n",
         "jumlahpenduduk": "117630"
     },
-    {
+    "15": {
         "id_kota": 15,
         "kabupaten/kota": "Buton Selatan\n",
         "jumlahpenduduk": "97950"
     },
-    {
+    "16": {
         "id_kota": 16,
         "kabupaten/kota": "Kendari",
         "jumlahpenduduk": "357650"
     },
-    {
+    "17": {
         "id_kota": 17,
         "kabupaten/kota": "BauBau",
         "jumlahpenduduk": "163720"
     }
-      ]
 }
-
