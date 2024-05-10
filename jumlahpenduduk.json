@@ -1,0 +1,25 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"data_penduduk"},
+{"type":"table","name":"jumlahpenduduk","database":"data_penduduk","data":
+[
+{"id_kota":"1","kabupaten\/kota":"Buton","jumlahpenduduk":"118410"},
+{"id_kota":"2","kabupaten\/kota":"Muna","jumlahpenduduk":"221370"},
+{"id_kota":"3","kabupaten\/kota":"Konawe","jumlahpenduduk":"264930"},
+{"id_kota":"4","kabupaten\/kota":"Kolaka\n","jumlahpenduduk":"243040"},
+{"id_kota":"5","kabupaten\/kota":"Konawe Selatan","jumlahpenduduk":"318350"},
+{"id_kota":"6","kabupaten\/kota":"Bombana\n","jumlahpenduduk":"155510"},
+{"id_kota":"7","kabupaten\/kota":"Wakatobi","jumlahpenduduk":"114620"},
+{"id_kota":"8","kabupaten\/kota":"Kolaka Utara\n","jumlahpenduduk":"142770"},
+{"id_kota":"9","kabupaten\/kota":"Buton Utara\n","jumlahpenduduk":"68090"},
+{"id_kota":"10","kabupaten\/kota":"Konawe Utara\n","jumlahpenduduk":"70680"},
+{"id_kota":"11","kabupaten\/kota":"Kolaka Timur\n","jumlahpenduduk":"123980"},
+{"id_kota":"12","kabupaten\/kota":"Konawe Kepulauan\n","jumlahpenduduk":"38310"},
+{"id_kota":"13","kabupaten\/kota":"Muna Barat","jumlahpenduduk":"87590"},
+{"id_kota":"14","kabupaten\/kota":"Buton Tengah\n","jumlahpenduduk":"117630"},
+{"id_kota":"15","kabupaten\/kota":"Buton Selatan\n","jumlahpenduduk":"97950"},
+{"id_kota":"16","kabupaten\/kota":"Kendari","jumlahpenduduk":"357650"},
+{"id_kota":"17","kabupaten\/kota":"BauBau","jumlahpenduduk":"163720"}
+]
+}
+]
