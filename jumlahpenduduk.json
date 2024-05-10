@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"data_penduduk"},
-{"type":"table","name":"jumlahpenduduk","database":"data_penduduk","data":
-[
 {"id_kota":"1","kabupaten\/kota":"Buton","jumlahpenduduk":"118410"},
 {"id_kota":"2","kabupaten\/kota":"Muna","jumlahpenduduk":"221370"},
 {"id_kota":"3","kabupaten\/kota":"Konawe","jumlahpenduduk":"264930"},
