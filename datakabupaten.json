@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"data_penduduk"},
-{"type":"table","name":"datakabupaten","database":"data_penduduk","data":
-[
 {"id_kota":"1","kabupaten\/kota":"Buton"},
 {"id_kota":"2","kabupaten\/kota":"Muna"},
 {"id_kota":"3","kabupaten\/kota":"Konawe"},
